@@ -1,7 +1,7 @@
 # Báo Cáo Tổng Hợp Phản Hồi Nhóm (Group Feedback Synthesis)
 **Tên nhóm:** `3 in 1`
 **AI Feature Case:** Case B — AI Notes: Personal Learning Notes
-**Thành viên:** Chu Thủy Dương (2A202602660), Lê Thanh Tình (2A202602449), Phạm Hương Giang (2A202602359)
+**Thành viên:** Chu Thùy Dương (2A202602660), Lê Thanh Tình (2A202602449), Phạm Hương Giang (2A202602359)
 
 ---
 

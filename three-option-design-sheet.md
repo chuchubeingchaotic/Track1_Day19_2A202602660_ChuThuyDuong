@@ -1,7 +1,7 @@
 # Bảng Thiết Kế 3 Phương Án Prototype (Three-Option Design Sheet)
 
 **Nhóm:** `3 in 1`  
-**Học viên:** Chu Thủy Dương (2A202602660)  
+**Học viên:** Chu Thùy Dương (2A202602660)  
 **AI Feature Case:** Case B — AI Notes: Personal Learning Notes  
 
 ---

@@ -1,6 +1,6 @@
 # Nhật Ký Sử Dụng AI Hỗ Trợ (AI Support Log)
 
-**Học viên:** Chu Thủy Dương (2A202602660)  
+**Học viên:** Chu Thùy Dương (2A202602660)  
 **Tên nhóm:** `3 in 1`  
 **AI Feature Case:** Case B — AI Notes: Personal Learning Notes  
 

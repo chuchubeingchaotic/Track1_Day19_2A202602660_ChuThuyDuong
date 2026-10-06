@@ -1,5 +1,5 @@
 # Biên Bản Phản Hồi Prototype (Prototype Feedback Note)
-**Học viên:** Chu Thủy Dương (2A202602660)
+**Học viên:** Chu Thùy Dương (2A202602660)
 **Nhóm:** `3 in 1`
 **AI Feature Case:** Case B — AI Notes: Personal Learning Notes
 **Phiên thử nghiệm:** Phiên cá nhân

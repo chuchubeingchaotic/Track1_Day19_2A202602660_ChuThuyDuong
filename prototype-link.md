@@ -2,7 +2,7 @@
 
 **Tên nhóm:** `3 in 1`  
 **Thành viên:**  
-- Chu Thủy Dương (2A202602660)  
+- Chu Thùy Dương (2A202602660)  
 - Lê Thanh Tình (2A202602449)  
 - Phạm Hương Giang (2A202602359)  
 **AI Feature Case:** Case B — AI Notes: Personal Learning Notes  
